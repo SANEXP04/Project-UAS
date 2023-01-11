@@ -1,4 +1,4 @@
-# Project-UAS-Pemrograman
+# PROJECT-UAS-PEMROGRAMAN
 # UAS_PROJECT
 ## Nama  : Ihsan Hadimulya
 ## NIM   : 312210047
